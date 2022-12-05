@@ -1,0 +1,38 @@
+form {
+	display: inline-block;
+	text-align: center;
+	margin: auto;
+	width: 100%;
+	line-height: 3em;
+}
+
+.container {
+    background-color: #02228d;
+	border-radius: 0.5rem;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	margin: auto;
+	width: 60%;
+	margin-top: 5em;
+}
+
+.submit {
+	border-radius: 2em;
+	font-size: 1.4rem;
+	padding: 0.6em;
+	background-color: #2343ae;
+	margin-bottom: 1em;
+}
+
+.submit:hover {
+	background-color: white;
+	color: #2343ae;
+}
+
+input[type="text"] {
+	border-radius: 1em;
+	font-size: 1.2rem;
+}
+
+label {
+	font-size: 1.2rem;
+}
